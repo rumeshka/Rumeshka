@@ -11,11 +11,12 @@ Hi 👋 I'm Seron Rumeshka<br><br>I'm student of University Of Moratuwa 🎓 pas
 ![](https://github-readme-stats.vercel.app/api?username=rumeshka&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rumeshka&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rumeshka&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Uploading Manga Wallpaper GIF.gif…]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rumeshka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[stock-footage-cybersecurity-data-transfer-and-futuristic-binary-code-for-ai-testing-on-dark-background.webm](https://github.com/user-attachments/assets/cb485655-59a5-4d59-b31f-3fd43e5c33bc)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
